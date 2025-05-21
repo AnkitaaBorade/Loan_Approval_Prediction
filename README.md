@@ -11,4 +11,4 @@ This is a Streamlit web app that predicts whether a loan will be approved based 
 ## How to Run
 1. Clone the repo  
 2. Install requirements: `pip install -r requirements.txt`  
-3. Run the app: `streamlit run loan_predictorGUI.py`
+3. Run the app: `streamlit run Loan_Prediction.py`
